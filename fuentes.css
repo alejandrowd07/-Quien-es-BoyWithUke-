@@ -1,0 +1,22 @@
+@font-face {
+    font-family: BlackRoboto;
+    src: url(Roboto/Roboto-Black.ttf)format(truetype);
+}
+@font-face {
+    font-family: ItalicRoboto;
+    src: url(Roboto/Roboto-BoldItalic.ttf)format(truetype);
+}
+@font-face {
+    font-family: TextFont;
+    src: url(Roboto/Roboto-Medium.ttf)format(truetype);
+    
+}
+@font-face {
+    font-family: thfont;
+    src: url(PT_Serif/PTSerif-Italic.ttf) format(truetype);
+}
+@font-face {
+    font-family: tdFont;
+    src: url(PT_Serif/PTSerif-Regular.ttf) format(truetype);
+    font-weight: 500;
+}

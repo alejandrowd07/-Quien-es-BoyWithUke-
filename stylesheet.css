@@ -1,0 +1,115 @@
+p{
+    font-size: 20px;
+    text-align: start;
+    font-family: TextFont;
+    font-weight: 400;
+    
+}
+.img1tabl{
+    float: right;
+    border-radius: 10%;
+    margin-top: 10px;
+    margin-right: 200px;
+}
+.img2tabl{
+    float: left ;
+    border-radius: 10%;
+    margin-left: 125px;
+    margin-top: 10px;
+    
+    
+}
+th{
+    font-size: 20px;
+    font-family: thfont;
+}
+table,th,td
+{
+    border: 1px solid black;
+}
+.tablita{
+    padding-left: 500px;
+    width: fit-content;
+    height:fit-content;
+    margin-top: 10px;
+
+}
+h2{
+    font-size: 30px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+    font-family: BlackRoboto;
+}
+h2{
+    font-family: ItalicRoboto;
+   
+}
+
+.TablAlb{
+    
+    padding-left: 150px; 
+    width: fit-content;
+    height:fit-content;
+}
+.tablita{
+    font-style: italic;
+    text-align: center;
+   
+}
+body ,td {
+    
+    text-align: justify;
+    font-family: tdFont;
+    font-weight: 500;
+}
+.RedesSociales{
+    text-align: center;
+    
+}
+.bi{
+font-size: 30px;
+margin-left: 15px;
+}
+.bi-twitter-x{
+    color: black;
+}
+.bi-instagram{
+    color: rgb(207, 13, 133);
+    
+}
+.bi-youtube{
+    color: red;
+    background-color: aliceblue;
+    background-size: cover;
+    border-radius: 5px;
+}
+.bi-spotify{
+    color: green;
+    background-color: black;
+    border-radius:5px;
+}
+.bi-tiktok{
+    color: black;
+    
+}
+a{
+    text-decoration: none;
+    color: darkred;
+   
+}
+.AlbTab{
+    border-radius:10%;
+}
+body{
+    background-image: url(https://i.pinimg.com/originals/79/f7/35/79f735bdc978bb91c3459899cad1a99a.jpg);
+    background-size: contain;
+    
+}
+
+
+
+
+
+
